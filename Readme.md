@@ -1,13 +1,33 @@
-# King Tutte Datamapping Codex
+# King Tutte Datamap Codex
 
-This repos is a Jupyter Book 2 full of notebooks design to (initially)
-run on [Google's Colab](https://colab.research.google.com/) Jupyter
+This repos is a Jupyter Book (v2) full of datamapping notebooks design
+to run on [Google's Colab](https://colab.research.google.com/) Jupyter
 service.
 
-This repos is also used as a part of [the King Tutte
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=uy7I9YNJcfg">
+    <img src="./images/tut/tutte_pectoral_scarab_icon.png" width="100%" />
+  </a>
+  <p align="center">Tut's <a href="https://en.wikipedia.org/wiki/Pectoral_(Ancient_Egypt)">pectoral amulet</a></p>
+</div>
+
+
+This repo can stand alone by itself but it is also used as a part of
+[the King Tutte
 Scrolls](https://github.com/Connoiter/king_tutte_scrolls). The Scrolls
-is an Agent Skill, as defined by Anthropic. The Codex is included
-as a submodule in the Scrolls.
+is an Agent Skill, as defined by Anthropic. This Codex is included as
+a submodule in the Scrolls. The two together make up a datamap SDK,
+with the core (UMAP, HDBSCAN, Toponomy, EVōC, DataMapPlot, etc.) being
+technology out of the Tutte Institute, including most of the
+notebooks.
+
+Note this project and its lighthearted tone are the product of
+[Connoiter](https://connoiter.com). The Tutte Institute had nothing
+to do with the Codex (except do all the hard work). The main value
+of this project is to gather various notebooks together and make
+them all run on Colab out of the box. This Codex was developed for
+use during conference workshops but also serves well for self-study 
+of making datamaps.
 
 ## Etymology
 
