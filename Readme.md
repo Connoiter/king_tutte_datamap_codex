@@ -5,10 +5,7 @@ to run on [Google's Colab](https://colab.research.google.com/) Jupyter
 service.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=uy7I9YNJcfg">
-    <img src="./images/tut/tutte_pectoral_scarab_icon.png" width="100%" />
-  </a>
-  <p align="center">Bill Tutte's <a href="https://en.wikipedia.org/wiki/Pectoral_(Ancient_Egypt)">pectoral amulet</a></p>
+    <img src="./images/tut/king_tutte_on_colab.transparent_bg.png" width="100%" />
 </div>
 
 This repo can stand alone by itself but it is also used as a part of
