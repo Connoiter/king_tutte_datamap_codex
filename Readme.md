@@ -1,6 +1,7 @@
 # King Tutte Datamap Codex
 
-This repos is a Jupyter Book (v2) full of datamapping notebooks design
+This repo, [the King Tutte Datamap Codex](https://github.com/Connoiter/king_tutte_datamap_codex)
+is a Jupyter Book (v2) full of datamapping notebooks design
 to run on [Google's Colab](https://colab.research.google.com/) Jupyter
 service.
 
