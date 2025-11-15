@@ -1,4 +1,4 @@
-# Workshop notebooks
+# Codex notebooks
 
 This is a list of notebooks used during the King Tutte workshop, sorted in the same order as introduced in the workshop.
 
@@ -11,7 +11,7 @@ Alternatively, you can launch them directly from this page:
 
 1. codex__set_up_king_tutte_on_colab.ipynb: a guide to setting auth
    for running King Tutte pipelines on Colab -- auth, tokens, runtime
-   config, etc. <a target="_blank" href="https://colab.research.google.com/github/Connoiter/king_tutte_datamap_codex/blob/main/by_repo/datamapplot/basic_usage.ipynb">
+   config, etc. <a target="_blank" href="https://colab.research.google.com/github/Connoiter/king_tutte_datamap_codex/blob/main/by_repo/codex/codex__set_up_king_tutte_on_colab.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
